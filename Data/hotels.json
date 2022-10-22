@@ -1,0 +1,206 @@
+[
+    {
+        "id": "0282e0e58a5c100",
+        "place_name": "Cox's Bazar",
+        "place_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_visit": 488,
+        "total_vote": 20,
+        "title": "Light Bright Stylish and Peaceful Stay",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/15/99/54/30/swimming-pool.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 2 baths Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 34
+    },
+
+    {
+        "id": "0282e0e58a5c101",
+        "place_name": "Cox's Bazar",
+        "place_id": "01",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_visit": 678,
+        "total_vote": 49,
+        "title": "Apartment in Lost Paronama",
+        "image_url": "https://i0.wp.com/ecoxsbazar.com/wp-content/uploads/2021/08/FB_IMG_1629171486288.jpg?resize=750%2C750&ssl=1",
+        "details": "4 guests 2 bedrooms 2 beds 2 baths Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 49
+    },
+
+    {
+        "id": "0282e0e58a5c102",
+        "place_name": "Cox's Bazar",
+        "place_id": "01",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_visit": 378,
+        "total_vote": 39,
+        "title": "Best View Of The Sea",
+        "image_url": "https://seapearlcoxsbazar.com/images/contact-2.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 32
+    },
+
+    {
+        "id": "0282e0e58a5c200",
+        "place_name": "Shree Mangel",
+        "place_id": "02",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_visit": 478,
+        "total_vote": 49,
+        "title": "Hills Above the Sky",
+        "image_url": "https://img.directhotels.com/bd/sylhet-division/balishira-resort-ltd/1.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 28
+    },
+
+    {
+        "id": "0282e0e58a5c201",
+        "place_name": "Shree Mangel",
+        "place_id": "02",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_visit": 798,
+        "total_vote": 99,
+        "title": "Best Hotel in the Town",
+        "image_url": "https://www.grandsultanresort.com/images/gs_front_fb.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 2 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 38
+    },
+
+    {
+        "id": "0282e0e58a5c202",
+        "place_name": "Shree Mangel",
+        "place_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_visit": 508,
+        "total_vote": 56,
+        "title": "Best Hotel at Your Budget",
+        "image_url": "https://pix10.agoda.net/hotelImages/124/1246280/1246280_16061017110043391702.jpg?ca=6&ce=1&s=768x1024",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 33
+    },
+
+    {
+        "id": "0282e0e58a5c300",
+        "place_name": "Shundarbans",
+        "place_id": "03",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_visit": 908,
+        "total_vote": 76,
+        "title": "Fear In the Jungle",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/18/16/70/97/mermaid-beach-resort.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 23
+    },
+
+    {
+        "id": "0282e0e58a5c301",
+        "place_name": "Shundarbans",
+        "place_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_visit": 478,
+        "total_vote": 41,
+        "title": "Enjoy the vacation with us",
+        "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/2a/24/d1/maargit-beach-resort.jpg?w=700&h=-1&s=1",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 33
+    },
+
+    {
+        "id": "0282e0e58a5c302",
+        "place_name": "Shundarbans",
+        "place_id": "03",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_visit": 358,
+        "total_vote": 53,
+        "title": "Explore the beauty of Shundarbans",
+        "image_url": "https://misadventureswithandi.com/wp-content/uploads/2018/02/Fairmont-Scottsdale-Princess-Pool-1024x1024.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 37
+    },
+
+    {
+        "id": "0282e0e58a5c400",
+        "place_name": "Saint Martins",
+        "place_id": "04",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_visit": 408,
+        "total_vote": 66,
+        "title": "Fear In the Jungle",
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/18/16/70/97/mermaid-beach-resort.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 43
+    },
+
+    {
+        "id": "0282e0e58a5c401",
+        "place_name": "Saint Martins",
+        "place_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_visit": 468,
+        "total_vote": 89,
+        "title": "Enjoy the vacation with us",
+        "image_url": "https://images.trvl-media.com/hotels/34000000/33270000/33263000/33262984/64de72cc.jpg?impolicy=fcrop&w=670&h=385&p=1&q=medium",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 42
+    },
+
+    {
+        "id": "0282e0e58a5c402",
+        "place_name": "Saint Martins",
+        "place_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_visit": 378,
+        "total_vote": 43,
+        "title": "Stay here with full comfort",
+        "image_url": "https://www.travelandleisure.com/thmb/NoewSr1L3AfAFqSG0GXr-IT42oY=/1600x1200/smart/filters:no_upscale()/best-mexico-resort-hotel-Viceroy-Riviera-Maya-00-MXRESHOTWB21jpg-f32ab547d1d849369066e55312dc4440.jpg",
+        "details": "4 guests 2 bedrooms 2 beds 1 bath Wifi, Air Conditioning, Kitchen",
+        "cancel": "Cancellation flexibility available",
+        "price": 27
+    }
+
+]
