@@ -8,9 +8,22 @@ app.use(cors());
 
 const places = require('./Data/places.json');
 const hotels = require('./Data/hotels.json');
+const maps = require('./Data/maps.json');
+
 
 app.get('/', (req, res) => {
     res.send('Travel Dude API is Running')
+})
+
+app.get('/maps', (req, res) => {
+    res.send(maps);
+})
+
+app.get('/maps/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const selectedMap = maps.find(map => map.place_id === id);
+    res.send(selectedMap);
 })
 
 app.get('/places', (req, res) => {

@@ -1,0 +1,17 @@
+[
+    {
+        "place_id": "01",
+        "map_link": "https://maps.google.com/maps?q=Cox,s%20bazar&t=&z=13&ie=UTF8&iwloc=&output=embed"
+    },
+
+    {
+        "place_id": "02",
+        "map_link": "https://maps.google.com/maps?q=sreemangal,%20sylhet&t=&z=15&ie=UTF8&iwloc=&output=embed"
+    },
+
+    {
+        "place_id": "03",
+        "map_link": "https://maps.google.com/maps?q=Shundarbans,%20bangladesh&t=&z=11&ie=UTF8&iwloc=&output=embed"
+    }
+
+]
